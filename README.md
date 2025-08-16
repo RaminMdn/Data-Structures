@@ -3,8 +3,7 @@
 This repository contains implementations of fundamental data structures in Python. It's created for personal learning and hands-on practice, with a focus on writing clean, testable code. Each data structure is implemented in its own file with methods, example usages, and unit testing.
 
 ---  
-\
-\
+<br><br>
   
 ## File Structure
 
@@ -14,8 +13,8 @@ I have tried to create for each file a consistent structure which includes:
 🔢 **Inline usage examples** : quick print-based examples to demonstrate how the structure works  
 🔢 **Unit testing** : a `run_unit_tests()` function using Python’s built-in `unittest` module for structured testing  
 
-  
-
+---
+<br><br>
 
 ## Implemented Data Structures
 
@@ -28,8 +27,7 @@ I have tried to create for each file a consistent structure which includes:
 | **Graph**       | `graph.py`       | Graph using adjacency list, with methods to add/remove nodes and edges |
 
 ---
-
-  ..
+<br><br>
 
 ### Folder Structure
 
@@ -43,8 +41,9 @@ data-structures-python/
   ├── graph.py # Graph using adjacency list 
   ├── README.md # Project documentation (this file) </code> 
 </pre>
----
 
+---
+<br><br>
 
 ## How to Use
 
@@ -55,9 +54,8 @@ python linked_list.py
 ```
 
 ---
+<br><br><br>
 
-..
-..
 ## Author’s Note
 
 This project was developed as part of personal learning and practice.
