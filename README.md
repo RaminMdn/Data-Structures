@@ -15,8 +15,8 @@ data-structures-python/
 ├── graph.py # Graph using adjacency list
 ├── README.md # Project documentation (this file)
 
+<pre> <code>data-structures-python/ │ ├── linked_list.py # Singly linked list implementation ├── stack.py # Stack implementation ├── queue.py # Queue implementation ├── tree.py # Binary tree implementation ├── graph.py # Graph using adjacency list ├── README.md # Project documentation (this file) </code> </pre>
 
----
 
 ## Typical File Content
 
