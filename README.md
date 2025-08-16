@@ -4,20 +4,6 @@ This repository contains implementations of fundamental data structures in Pytho
 
 ---
 
-## File Structure
-
-
-<pre> <code>
-data-structures-python/ 
-  │ 
-  ├── linked_list.py # Singly linked list implementation
-  ├── stack.py # Stack implementation 
-  ├── queue.py # Queue implementation 
-  ├── tree.py # Binary tree implementation 
-  ├── graph.py # Graph using adjacency list 
-  ├── README.md # Project documentation (this file) </code> 
-</pre>
-
 
 ## Typical File Content
 
@@ -35,6 +21,7 @@ Each file includes:
 - Simple usage examples for quick verification
 - A `run_unit_tests()` function using Python's `unittest` module
 
+
 ### Implemented Data Structures
 
 | Data Structure  | File             | Description                                                            |
@@ -47,6 +34,22 @@ Each file includes:
 
 ---
 
+
+## File Structure
+
+<pre> <code>
+data-structures-python/ 
+  │ 
+  ├── linked_list.py # Singly linked list implementation
+  ├── stack.py # Stack implementation 
+  ├── queue.py # Queue implementation 
+  ├── tree.py # Binary tree implementation 
+  ├── graph.py # Graph using adjacency list 
+  ├── README.md # Project documentation (this file) </code> 
+</pre>
+---
+
+
 ## How to Use
 
 You can run each file directly to see basic examples and unit test output:
@@ -54,6 +57,8 @@ You can run each file directly to see basic examples and unit test output:
 ```bash
 python linked_list.py
 ```
+
+---
 
 
 ## Author’s Note
