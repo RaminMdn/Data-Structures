@@ -4,8 +4,8 @@ This repository contains implementations of fundamental data structures in Pytho
 
 ---
 
-  
-## Typical File Content
+..
+## File Structure
 
 I have tried to create for each file a consistent structure which includes:
 
@@ -13,7 +13,7 @@ I have tried to create for each file a consistent structure which includes:
 ✅ **Inline usage examples** — quick print-based examples to demonstrate how the structure works  
 ✅ **Unit testing** — a `run_unit_tests()` function using Python’s built-in `unittest` module for structured testing  
 
-  
+..
 Each file includes:
 
 - A class defining the data structure
@@ -34,8 +34,9 @@ Each file includes:
 
 ---
 
+..
 
-### File Structure
+### Folder Structure
 
 <pre> <code>
 data-structures-python/ 
@@ -60,7 +61,8 @@ python linked_list.py
 
 ---
 
-
+..
+..
 ## Author’s Note
 
 This project was developed as part of personal learning and practice.
