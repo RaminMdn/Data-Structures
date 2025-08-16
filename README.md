@@ -52,7 +52,8 @@ Each file includes:
 You can run each file directly to see basic examples and unit test output:
 
 ```bash
-python linked_list.py```
+python linked_list.py
+```
 
 
 ## Author’s Note
