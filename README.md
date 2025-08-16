@@ -21,6 +21,13 @@ data-structures-python/
 
 ## Typical File Content
 
+I have tried to create for each file a consistent structure which includes:
+
+✅ **A class implementation** — defining the data structure and its core operations  
+✅ **Inline usage examples** — quick print-based examples to demonstrate how the structure works  
+✅ **Unit testing** — a `run_unit_tests()` function using Python’s built-in `unittest` module for structured testing  
+
+
 Each file includes:
 
 - A class defining the data structure
@@ -46,3 +53,20 @@ You can run each file directly to see basic examples and unit test output:
 
 ```bash
 python linked_list.py
+
+
+## Author’s Note
+
+This project was developed as part of personal learning and practice.
+
+At times, I consult pair programming tools, programming forums or relevant documentations — for purposes like:
+
+- Proofreading code or comments
+- Double-checking best practices
+- Exploring alternative implementations
+
+These tools were used in the same way any developer might use a second pair of eyes, and never as a substitute for understanding or authorship.
+
+The goal was always clarity, correctness, and learning — with every line written and reviewed consciously and deliberately.
+
+
