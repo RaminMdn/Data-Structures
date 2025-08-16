@@ -22,7 +22,7 @@ Each file includes:
 - A `run_unit_tests()` function using Python's `unittest` module
 
 
-### Implemented Data Structures
+## Implemented Data Structures
 
 | Data Structure  | File             | Description                                                            |
 |-----------------|------------------|------------------------------------------------------------------------|
@@ -35,7 +35,7 @@ Each file includes:
 ---
 
 
-## File Structure
+### File Structure
 
 <pre> <code>
 data-structures-python/ 
