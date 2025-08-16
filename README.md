@@ -1,19 +1,22 @@
-# 📚 Data Structures Practice in Python
+# Data Structures Practice in Python
 
 This repository contains implementations of fundamental data structures in Python. It's created for personal learning and hands-on practice, with a focus on writing clean, testable code. Each data structure is implemented in its own file with methods, example usages, and unit testing.
 
 ---
 
-..
+  ..
+  
+  
+  
 ## File Structure
 
 I have tried to create for each file a consistent structure which includes:
 
-✅ **A class implementation** — defining the data structure and its core operations  
-✅ **Inline usage examples** — quick print-based examples to demonstrate how the structure works  
-✅ **Unit testing** — a `run_unit_tests()` function using Python’s built-in `unittest` module for structured testing  
+🔢 **A class implementation** : defining the data structure and its core operations/methods  
+🔢 **Inline usage examples** : quick print-based examples to demonstrate how the structure works  
+🔢 **Unit testing** : a `run_unit_tests()` function using Python’s built-in `unittest` module for structured testing  
 
-..
+  ..
 Each file includes:
 
 - A class defining the data structure
@@ -34,7 +37,7 @@ Each file includes:
 
 ---
 
-..
+  ..
 
 ### Folder Structure
 
