@@ -5,7 +5,7 @@ This repository contains implementations of fundamental data structures in Pytho
 ---  
 <br><br>
   
-## File Structure
+## File Structure 
 
 I have tried to create for each file a consistent structure which includes:
 
