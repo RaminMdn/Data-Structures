@@ -3,7 +3,7 @@
 This repository contains implementations of fundamental data structures in Python. It's created for personal learning and hands-on practice, with a focus on writing clean, testable code. Each data structure is implemented in its own file with methods, example usages, and unit testing. 
 
 ---  
-<br><br>
+<br><br> 
   
 ## File Structure
 
