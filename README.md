@@ -17,7 +17,7 @@ I have tried to create for each file a consistent structure which includes:
 <br><br>
 
 ## Implemented Data Structures
-
+ 
 | Data Structure  | File             | Description                                                            |
 |-----------------|------------------|------------------------------------------------------------------------|
 | **Linked List** | `linked_list.py` | Singly linked list with `append`, `delete`, `search`, etc.             |
